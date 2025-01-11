@@ -2,16 +2,14 @@
 A simple app that gives Phantasy Star Universe Discord Rich Presence (Shows what you are upto whilst playing the game).
 
 # Installation
-- Download and open the PSU-DRP Installer.
-  - The installer path should be pointed toward your PSUC.exe directory by default.
+- Download the zip file.
+  - Place the PSUC-DRP.exe in the PSUC.exe directory
   - If you're playing Clementine the directory might look something like this "C:\Users\Username\AppData\Local\Programs\Phantasy Star Universe Clementine".
-  - if you have installed the game in an alternative location, that is where the path should be pointed.
-  - Press the Download and install button, there should be a popup that states the files are installed correctly. The file created should be named PSU-DRP.exe.
-  - You can close the installer now.
+  - if you have installed the game in an alternative location, that is PSUC-DRP.exe should be pointed.
 
 - Run PSU-DRP.exe as administrator.
 
-- Make sure the Game Path is correctly pointing to the PSUC.exe in the PSU-DRP.exe.
+- Make sure the Game Path is correctly pointing to the PSUC.exe.
   - If you're using an alternative exe or using a launcher you can redirect the path to that instead.
 
 - Press Launch
