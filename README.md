@@ -19,5 +19,3 @@ A simple app that launches gives Phantasy Star Universe Discord Rich Presence (S
 If you have the game open already, opening this app and pressing launch should attach itself to PSU automatically
 
 If you have any crashes or bugs please leave them in the issues tab, I created this in 1 evening so there might be a bug or 2!
-
-If you're having an error message about the icon file being missing, you can download it from this repo and put it in the same folder as the PSU-DRP.exe
