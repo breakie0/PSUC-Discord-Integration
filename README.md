@@ -3,21 +3,21 @@ A simple app that gives Phantasy Star Universe Discord Rich Presence (Shows what
 
 # Installation
 - Download the zip file.
-  - Place the PSUC-DRP.exe in the PSUC.exe directory
-  - If you're playing Clementine the directory might look something like this "C:\Users\Username\AppData\Local\Programs\Phantasy Star Universe Clementine".
-  - if you have installed the game in an alternative location, that is PSUC-DRP.exe should be pointed.
+  - Extract the PSUC-DRP.exe and psuicon.ico files.
+  - Make sure you run PSUC-DRP as Administrator otherwise it won't attach to the game.
 
-- Run PSU-DRP.exe as administrator.
+# How to use
+  - Open PSU
+  - Open the executable as Administrator.
+  - Press connect to game.
+  - Once loaded PSUC-DRP will show you your character infomation. :)
 
-- Make sure the Game Path is correctly pointing to the PSUC.exe.
-  - If you're using an alternative exe or using a launcher you can redirect the path to that instead.
+# Examples
+![demo1](https://github.com/user-attachments/assets/8f6bab9d-a0c8-406a-bf78-96f22f250653)
+![demo3](https://github.com/user-attachments/assets/9acc4fb5-90b5-4e8e-8860-39e796779b4d)
+![demo2](https://github.com/user-attachments/assets/1c28262b-1015-4d1e-8b47-eeb529cb4feb)
 
-- Press Launch
-    - If Discord isn't showing DRP try the following:
-      - Open Discord User Settings -> Activity Settings -> Registered Games -> "Not seeing your game? Add it!" and make sure to select "Phantasy Star Universe DRP" Not the game itself!
-      - Make sure your Activity Privacy is on User Settings -> Activity Settings -> Activity Privacy -. "Share your detected activities with others"
+
 
 # Other Notes
-If you have the game open already, opening this app and pressing launch should attach itself to PSU automatically
-
-If you have any crashes or bugs please leave them in the issues tab, I created this in 1 evening so there might be a bug or 2!
+If you have any crashes or bugs please leave them in the issues tab!
